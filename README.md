@@ -63,6 +63,21 @@ In `src-tauri/Info.plist`:
 </plist>
 ```
 
+### 5. Disable Tauri's updater
+
+In `tauri.conf.json`:
+
+```
+tauri.conf.json
+{
+  "tauri": {
+    "updater": {
+      "active": false
+    }
+  }
+}
+```
+
 ## Usage
 
 Regular [app usage events](https://docs.setapp.com/docs/implement-usage-reporting) are automatically reported by Setapp framework. You can invoke other framework features from Javascript:
