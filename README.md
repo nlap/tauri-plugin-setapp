@@ -68,7 +68,6 @@ In `src-tauri/Info.plist`:
 In `tauri.conf.json`:
 
 ```
-tauri.conf.json
 {
   "tauri": {
     "updater": {
