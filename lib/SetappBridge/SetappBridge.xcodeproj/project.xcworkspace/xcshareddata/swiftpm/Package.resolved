@@ -1,14 +1,15 @@
 {
+  "originHash" : "3cce57dd49f5e0d485a545164d18111cf98688d987ad3e9380f99aba7062b6d2",
   "pins" : [
     {
       "identity" : "setapp-framework",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/MacPaw/Setapp-framework.git",
       "state" : {
-        "revision" : "822f260a8227e1445b1a8fa46cbcbe9088da29ae",
-        "version" : "4.0.2"
+        "revision" : "b029b50cd1901a36ee4d553b6dac2a25191d7b6f",
+        "version" : "4.2.0"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
