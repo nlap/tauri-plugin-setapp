@@ -1,6 +1,6 @@
 [package]
 name = "tauri-plugin-setapp"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Nathan Lapierre"]
 description = ""
 edition = "2021"
@@ -8,5 +8,5 @@ rust-version = "1.60"
 exclude = ["/examples"]
 
 [dependencies]
-tauri = { version = "1.5.1" }
+tauri = { version = "1.5.3" }
 cfg-if = "1.0"
