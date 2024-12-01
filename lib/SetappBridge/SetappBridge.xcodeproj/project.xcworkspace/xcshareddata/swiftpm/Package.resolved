@@ -6,8 +6,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/MacPaw/Setapp-framework.git",
       "state" : {
-        "revision" : "b029b50cd1901a36ee4d553b6dac2a25191d7b6f",
-        "version" : "4.2.0"
+        "revision" : "325aba75c006be6726420907eeb242a35f180e91",
+        "version" : "4.2.2"
       }
     }
   ],

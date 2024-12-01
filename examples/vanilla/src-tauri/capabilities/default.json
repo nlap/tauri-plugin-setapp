@@ -1,0 +1,8 @@
+{
+  "identifier": "default",
+  "$schema": "../gen/schemas/macOS-schema.json",
+  "platforms": ["macOS"],
+  "local": true,
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}

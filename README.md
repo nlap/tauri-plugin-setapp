@@ -14,7 +14,7 @@ Add to `cargo.toml`:
 
 ```
 [dependencies]
-tauri-plugin-setapp = { git = "https://github.com/nlap/tauri-plugin-setapp.git", tag = "v1.0.0" }
+tauri-plugin-setapp = { git = "https://github.com/nlap/tauri-plugin-setapp.git", tag = "v2.0.0" }
 ```
 
 ### 2. Register the plugin
