@@ -1,3 +1,5 @@
+## April 2026: I am no longer maintaining this project. Please [check for forks](https://github.com/nlap/tauri-plugin-setapp/network).
+
 # Tauri Setapp Plugin
 
 Integrate [Setapp](https://setapp.com)'s framework into [Tauri](https://tauri.app) Mac apps
